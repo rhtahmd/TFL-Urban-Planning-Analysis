@@ -15,7 +15,7 @@ Are there any specific travel card types that are predominantly used?
 How does the number of journeys vary across different days of the week?
 
 # Dataset Description
-The dataset obtained from [[Data Source](https://www.kaggle.com/datasets/astronasko/transport-for-london-journey-information)] contains information about TFL journeys. It includes the following attributes:
+The dataset obtained from [(https://www.kaggle.com/datasets/astronasko/transport-for-london-journey-information)] contains information about TFL journeys. It includes the following attributes:
 
 StartStn: The start station of the journey.
 
@@ -42,7 +42,7 @@ Data Cleaning and Preparation: The dataset was cleaned and prepared using Pandas
 
 SQL Querying: SQL queries were executed using SQLite to retrieve relevant information from the dataset. Queries were designed to analyze the busiest stations, journey durations, travel card types, and journey counts across different days of the week.
 
-Data Visualization: Matplotlib and Seaborn were used to create visualizations, such as bar plots and line charts, to present the findings from the analysis. Power BI was also employed for advanced visualizations and interactive dashboards.
+Data Visualization: Power BI was employed for advanced visualizations and interactive dashboards.
 
 # Results and Discussion
 The analysis revealed the following key findings:
