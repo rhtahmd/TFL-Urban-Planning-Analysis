@@ -2,7 +2,9 @@
 
 # Introduction
 
-In this project, the goal is to analyze transportation data from Transport for London (TFL) to gain insights into urban planning. The dataset, sourced from [Data Source], consists of [description of the dataset], including information about start stations, end stations, journey duration, and travel card types.
+In this project, the goal is to analyze transportation data from Transport for London (TFL) to gain insights into urban planning. The dataset, sourced from (https://www.kaggle.com/datasets/astronasko/transport-for-london-journey-information), consists of : "a 5% sample of all Oyster card journeys performed in a week during November 2009 on bus, Tube, DLR, TfL Rail and London Overground. On journey by Tube or rail, an Oyster card user must touch in at the start, and touch out at the end for journey validation. On buses and trams, Oyster card users are only required to touch in so to validate their journey.
+
+", including information about start stations, end stations, journey duration, and travel card types.
 
 # Questions
 
@@ -15,7 +17,7 @@ Are there any specific travel card types that are predominantly used?
 How does the number of journeys vary across different days of the week?
 
 # Dataset Description
-The dataset obtained from [(https://www.kaggle.com/datasets/astronasko/transport-for-london-journey-information)] contains information about TFL journeys. It includes the following attributes:
+The dataset obtained from (https://www.kaggle.com/datasets/astronasko/transport-for-london-journey-information) contains information about TFL journeys. It includes the following attributes:
 
 StartStn: The start station of the journey.
 
