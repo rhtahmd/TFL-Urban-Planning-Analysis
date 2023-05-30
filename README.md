@@ -1,3 +1,7 @@
+![Dashboard](https://github.com/rhtahmd/TFL-Urban-Planning-Analysis/assets/134383166/e9d40bef-93ab-4008-887e-27f74acdef55)
+![EDA](https://github.com/rhtahmd/TFL-Urban-Planning-Analysis/assets/134383166/64aec4bd-27cb-41e8-b576-de7ad81cc9d7)
+
+
 # TFL-Urban-Planning-Analysis
 
 # Introduction
