@@ -15,7 +15,7 @@ Are there any specific travel card types that are predominantly used?
 How does the number of journeys vary across different days of the week?
 
 # Dataset Description
-The dataset obtained from [Data Source] contains information about TFL journeys. It includes the following attributes:
+The dataset obtained from [[Data Source](https://www.kaggle.com/datasets/astronasko/transport-for-london-journey-information)] contains information about TFL journeys. It includes the following attributes:
 
 StartStn: The start station of the journey.
 
@@ -57,4 +57,14 @@ Journeys by Day of the Week: The analysis showcased the number of journeys on ea
 
 # Conclusion
 
-In conclusion, this analysis of TFL transportation data provided insights into the busiest stations, journey durations, travel card types, and journey counts across different days of the week. These findings can be valuable for urban planning purposes, enabling policymakers and transportation authorities to optimize infrastructure and services based on demand and usage patterns.
+In conclusion, this TFL Urban Planning Analysis Project has provided valuable insights into the TFL transportation system. By analyzing data on the busiest stations, journey durations, travel card types, and journey counts, we have gained a deeper understanding of the dynamics and challenges within the network. These findings can be instrumental in informing urban planning strategies and optimizing transportation infrastructure to enhance the overall commuting experience.
+
+The identification of the busiest stations, such as Oxford Circus, Victoria, and London Bridge, highlights the need for targeted measures to address congestion and improve passenger flow during peak hours. By implementing strategies to distribute the passenger load to nearby stations and promoting alternative modes of transportation for short distances, we can alleviate congestion and enhance the efficiency of the network.
+
+The analysis of journey durations across different subsystems provides insights into the average travel times experienced by passengers. This information can guide decision-making processes regarding infrastructure improvements, schedule optimizations, and route planning to reduce travel times and enhance the overall efficiency of the transportation system.
+
+Furthermore, the examination of travel card types and their distribution offers valuable insights into the preferences and usage patterns of passengers. Understanding the popularity of different fare products, such as PAYG, LUL Travelcard-7 Day, and LUL Travelcard-1 Month, enables policymakers to design fare structures and ticketing systems that are aligned with passenger needs and encourage the use of public transportation.
+
+Lastly, the analysis of journey counts across different days of the week provides a comprehensive understanding of travel patterns and demand variations. This information can assist in resource allocation, service planning, and scheduling adjustments to meet the varying needs of passengers throughout the week.
+
+Incorporating the findings from this analysis into urban planning strategies can lead to more efficient transportation systems, reduced congestion, improved passenger experiences, and sustainable urban development. By leveraging data-driven insights, policymakers and transportation authorities can make informed decisions that prioritize the needs of commuters and contribute to the creation of livable and vibrant cities
