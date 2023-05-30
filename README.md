@@ -2,9 +2,11 @@
 
 # Introduction
 
-In this project, the goal is to analyze transportation data from Transport for London (TFL) to gain insights into urban planning. The dataset, sourced from (https://www.kaggle.com/datasets/astronasko/transport-for-london-journey-information), consists of : "a 5% sample of all Oyster card journeys performed in a week during November 2009 on bus, Tube, DLR, TfL Rail and London Overground. On journey by Tube or rail, an Oyster card user must touch in at the start, and touch out at the end for journey validation. On buses and trams, Oyster card users are only required to touch in so to validate their journey.
+In this project, the goal is to analyze transportation data from Transport for London (TFL) to gain insights into urban planning. The dataset, sourced from (https://www.kaggle.com/datasets/astronasko/transport-for-london-journey-information), consists of: 
 
-", including information about start stations, end stations, journey duration, and travel card types.
+"a 5% sample of all Oyster card journeys performed in a week during November 2009 on bus, Tube, DLR, TfL Rail and London Overground. On journey by Tube or rail, an Oyster card user must touch in at the start, and touch out at the end for journey validation. On buses and trams, Oyster card users are only required to touch in so to validate their journey.", 
+
+including information about start stations, end stations, journey duration, and travel card types.
 
 # Questions
 
